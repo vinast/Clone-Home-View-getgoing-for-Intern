@@ -9,12 +9,12 @@ Install Library React Icon
   ```
   npm install react-icons
   ```
-Instal Swiper React-Icon
+Install Swiper React-Icon
 ```
 npm install swiper react-icons
 ```
 
-Last Run Server
+Last Step Run Server
 ```
 npm run dev
 ```
