@@ -1,7 +1,7 @@
 # Make a Copy of the Website https://getgoing.co.id/ For Internship Requirements
 
 
-<h1>How To Run Project React + Vite And CSS Tailwind</h1>
+<h3>How To Run Project React + Vite And CSS Tailwind</h3>
 
 </br>
 
